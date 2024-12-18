@@ -1,0 +1,139 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #e682e9a2;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.main {
+    padding: 20px;
+
+}
+
+.hero {
+    background-image: url("assets/tlo.jpg");
+    color: #000000;
+    text-align: center;
+    padding: 300px 20px;
+}
+
+.hero .btn {
+    background-color: #ff6347;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.gallery {
+    font-family: 'Franklin Gothic Medium',;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+.tak {
+    background-color: rgb(153, 138, 138);
+}
+
+
+
+.iii {
+    font-family: 'Franklin Gothic Medium',;
+}
+
+.hist {
+    background-color: rgb(153, 138, 138);
+}
+
+.mm {
+    font-family: 'Franklin Gothic Medium',;
+    font-size: 30px;
+    text-align: center;    
+}
+
+.kul {
+    background-color: rgb(153, 138, 138);
+}
+
+.z {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.x {
+        font-family: 'Franklin Gothic Medium',;
+        font-size: 15px;
+        text-align: center;
+}
+
+.c {
+        font-family: 'Franklin Gothic Medium',;
+        font-size: 15px;
+        text-align: center;
+}
+
+.v {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.g {
+    font-family: 'Franklin Gothic Medium',;
+    font-size: 15px;
+    text-align: center;
+}
+
+.kk {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.ww {
+    font-family: 'Franklin Gothic Medium',;
+    font-size: 15px;
+    text-align: center;
+}
+
+.oo {
+    text-decoration: underline;
+    font-size: 30px;
+} 
+
+.aa {
+    font-family: 'Franklin Gothic Medium',;
+    font-size: 15px;
+    text-align: center;
+}
+
+.qq {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.yy {
+    font-family: 'Franklin Gothic Medium',;
+    font-size: 15px;
+    text-align: center;
+}
